@@ -32,7 +32,7 @@ public class ProxyManager {
     // Configuración por defecto
     private static final int DEFAULT_TIMEOUT = 10000; // 10 segundos
     private static final int DEFAULT_THREADS = 50;
-    private static final String TEST_URL = "http://httpbin.org/ip";
+    private static final String TEST_URL = "https://httpbin.org/ip";
     private static final String TEST_HTTPS_URL = "https://httpbin.org/ip";
 
     // Estado del manager
